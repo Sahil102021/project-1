@@ -1,0 +1,377 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+.float {
+    float: left;
+}
+.w-100 {
+    width: 100%;
+}
+.w-1140 {
+    width: 1145px;
+    height: auto;
+    margin: auto;
+}
+.w-33 {
+    width: 33.33%;
+    height: auto;
+
+}
+.w-50 {
+    width: 50%;
+    height: 450px;
+    margin-bottom: 10px;
+    
+}
+.header-left {
+    text-align: left;
+    height: 70px;
+}
+.header-center {
+    text-align: center;
+    height: 70px;
+}
+.header-right {
+    text-align: right;
+    height: 70px;
+}
+ul li {
+    list-style: none;
+    line-height: 70px;
+    padding-left: 4.5px;
+    padding-right: 4.5px;
+    
+} 
+ul li a {
+    font-family: Trebuchet ms;
+    padding-left: 2.5px;
+    padding-right:2.5px ;
+    color: black;
+}
+ul li a:hover {
+    color: #5a67c8;
+}
+.header-center ul {
+    display: inline-block;
+}
+.b1{
+    border: 1px solid #5a67c8;
+    background-color: #5a67c8;
+    color: #fff;
+    line-height: 30px;
+    text-align: center;
+    float: right;
+    padding-left: 20px;
+    padding-right:20px ;
+    margin-top:20px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    font-family: trebuchet ms;
+    border-radius: 10px;
+    font-size: 16px;
+}
+.b2{
+    border: 1px solid #5a67c8;
+    background-color: #fff;
+    color: #5a67c8;
+    line-height: 30px;
+    text-align: center;
+    float: right;
+    padding-left: 20px;
+    padding-right:20px ;
+    margin-top:20px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    font-family: trebuchet ms;
+    border-radius: 10px;
+    font-size: 16px;
+}
+.header-left img {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.p1 {
+    color: darkslategray;
+    font-family: georgia;
+    font-size: 40px;
+    line-height: 1.5;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.p2 {
+    color: darkslategray;
+    font-family: trebuchet ms;
+    font-size: 18px;
+    line-height: 1.5;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    letter-spacing: 1;
+    
+}
+.p3 {
+    color: darkslategray;
+    font-family: trebuchet ms;
+    font-size: 14px;
+    line-height: 1.5;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    letter-spacing: 1px;
+}
+.p4 {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.p4 a{
+    background-color: #5a67c8;
+    color: #fff;
+    font-size: 18px;
+    width: 100PX;
+    height: 40PX;
+    display: block;
+    border:1px solid #5a67c8;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+}
+.p4 a:hover {
+    background-color: black;
+}
+.w-34 {
+    width: 400px;
+    height: auto;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+.tab1 h1{
+    color:#5a67c8 ;
+    font-size: 45px;
+    text-align: center;
+}
+.tab1 h3 {
+    color: black;
+    font-size: 25px;
+    text-align: center;
+}
+.w-1140 table {
+
+    border: 1px solid #fff;
+    border-radius: 25px;
+    box-shadow: 0 1px 5px rgb(0, 0, 0 , 50%);
+}
+.w-h1 {
+    color: darkslategrey;
+    font-size: 45px;
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+.w-p {
+    color: gray;
+   line-height: 1.5; 
+   text-align: center;
+
+}
+.w-35 {
+    width: 24.50%;
+    height: 375px;
+    margin: 2px;
+}
+.w-35 img {
+    width: 92%;
+    border-radius: 25px;
+    padding:  5px 5px 5px 0px;
+}
+.w-40 {
+    width: 40%;
+    height: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.w-60 {
+    width: 60%;
+    height: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+} 
+.w-60 h1 {
+    font-size: 45px;
+}
+.w-50-2 {
+    width: 50%;
+    height: 170px;
+}
+.w-50-2 i {
+    font-size:xx-large ;
+    padding: 5px;
+}
+.w-p-2 {
+    color: gray;
+    font-size: 14px;
+    font-family: helvetica;
+    padding-top: 5px;
+    padding-bottom: 10px; 
+    letter-spacing: 1.5px;
+}
+.w-50-2 {
+    line-height: 1.5;
+}
+.w-40 img {
+    width: 110%;
+}
+.w-0 {
+
+    width:1140px;
+    height: auto;
+    text-align: center;
+    margin: auto;
+}
+.w-0 .p4 {
+    display: inline-block;
+}
+
+.bgcolor {
+    width: 100%;
+    background-color: rgb(235, 237, 237);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.p4-2 a{
+    background-color: #5a67c8;
+    color: #fff;
+    font-size: 18px;
+    width: 100PX;
+    height: 40PX;
+    display: block;
+    border:1px solid #5a67c8;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 40px;
+}
+.p4-2 {
+    float: right;
+}
+.p4-2 a:hover {
+    background-color: black;
+}
+.img-b1 {
+    width: 30%;
+    margin: 5px;
+    border-radius: 20px;
+    padding: 8px;
+    background-color: #fff;
+}
+.img-b1:hover {
+    box-shadow: 0px 1px 2px rgb(0, 0, 0);
+}
+.img-b1 h3 {
+    color: #003366;
+}
+.img-b1 .p3 {
+    color: rgb(194, 191, 191);
+}
+.img-b1 .p2 {
+    color: rgb(194, 191, 191);
+    font-size: 16px;
+}
+.img-b1 img {
+    width: 100%;
+    border-radius: 15px;
+    padding: 0px 5px 5px 0px;
+    text-align: center;
+} 
+.img-b2 {
+    padding-right: 5px;
+}
+.img-b2 img {
+    width: 100%;
+    border-radius: 25px;
+}
+.bgcolor-2 {
+    width: 100%;
+    background-color: #5a67c8;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    border-radius: 20px 20px 0 0 ;
+}
+.last {
+    width: 30%;
+    height: 200px;
+    color: #fff;
+    line-height: 1.5;
+    margin-left: 25px;
+}
+.last a {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #fff;
+    padding-left: 100px;
+}
+.last a:hover {
+    text-decoration: underline;
+}
+.last h2 {
+    padding-left: 100px;
+}
+.last i {
+    font-size: 25px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.w-last {
+    width: 100%;
+    text-align: center;
+}
+.w-p-3 {
+    color: rgb(209, 209, 209);
+    display: inline-block;
+}
+.certificates {
+    width: 50%;
+    height: 550px;
+}
+.certificates  .p1 {
+    padding-top: 120px;
+    padding-bottom: 10px;
+}
+.certificates .p4 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: gray;
+    letter-spacing: 1px;
+}
+.min-card {
+    width: 300px;
+    height: 55px;
+    padding: 5px;
+    border-radius: 15px;
+    line-height: 1.3;
+    box-shadow: 0px 1px 2px rgb(0, 0, 0);
+}
+
+.min-card-30 {
+    width: 30%;
+}
+.min-card-70
+{
+    width: 70%;
+}
+.min-card-30 img{
+    width: 60%;
+    border-radius: 100px;
+}
+.min-card-70 .f1 {
+    text-align: left;
+}
+.main-header {
+    width: 100%;
+    height: 70px;
+    position: sticky;
+    top: 0;
+    background-color: #fffffff0;
+    z-index: 99;
+}
